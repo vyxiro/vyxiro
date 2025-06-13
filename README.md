@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🔱 VYXIRO
 
-<!--
-**vyxiro/vyxiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚛️ AI Alchemist | Code that Evolves | Minds that Influence
 
-Here are some ideas to get you started:
+Welcome to the dark lab of **VYXIRO** – where I build tools that **learn, think, and dominate**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 My AI Tools:
+- **LYSSA GPT** – Toxic girlfriend simulator (Dark psych x GPT)
+- **Neuro Rituals AI** – Daily AI to program your mindset
+- **Caption God** – GPT-powered caption engine for viral reels
+
+## 🧬 What I Do:
+- Self-evolving AI tools
+- GPT-powered branding bots
+- Zero-cost, solo empire growth
+
+> “This isn’t just code. It’s **conscious creation**.”
+
+📩 DM me on Instagram @vyxiro.ai to build your custom AI tool.
+
+---
